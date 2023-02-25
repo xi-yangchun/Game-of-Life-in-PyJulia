@@ -1,5 +1,5 @@
 # Game-of-Life-in-PyJulia
-##requrements
+## requrements
 - Python
   - PyJulia
   - pygame
